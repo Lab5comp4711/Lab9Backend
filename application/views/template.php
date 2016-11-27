@@ -10,10 +10,8 @@
     <body>
     {navbar}
         <div id="container">
-        	
+
             {content}
-            <p class="footer">Page rendered in <strong>0.0318</strong> seconds. 
-                {ci_version}</p>
         </div>
         {caboose_scripts}
         {caboose_trailings}
